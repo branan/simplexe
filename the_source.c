@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-// Print an unfriendly message to the world
+// Be a dick to the world
 int main(int argc, char** argv) {
   puts("Hello, World!\n");
-  puts("I hate you so much\n");
+  puts("I love you so much\n");
+  puts("lol j/k. You stink.\n");
   return 0;
 }
